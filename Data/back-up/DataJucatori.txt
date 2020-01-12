@@ -1,0 +1,5 @@
+﻿Scoala "Mircea" ; 1
+Scoala "Iub" ; 2
+Liceul "Panorama" ; 3
+Liceul "Popa Ion" ; 4
+Colegiul "Bau Bau" ; 5

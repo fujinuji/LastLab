@@ -1,0 +1,7 @@
+﻿1 ; 1-2 ; 0 ; rezerva
+2 ; 1-2 ; 0 ; partipicant
+3 ; 1-2 ; 18 ; partipicant
+5 ; 1-2 ; 0 ; Rezerva
+8 ; 1-2 ; 0 ; Rezerva
+9 ; 1-2 ; 15 ; partipicant
+10 ; 1-2 ; 2 ; partipicant
